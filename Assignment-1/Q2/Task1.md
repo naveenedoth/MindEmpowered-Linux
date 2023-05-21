@@ -11,4 +11,4 @@ account.
 - Take a screenshot of the "ls -l" command output for "testdir" and submit it.
 
 
-![Task-1](d:/Users/navee/Documents/linux/2%20-%20Task1_page-0001.jpg)
+![2 - Task1_page-0001](https://github.com/naveenedoth/MindEmpowered-Linux/assets/94816256/deddd509-65dd-4eef-8b86-954bfcc5320c)
