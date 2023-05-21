@@ -3,7 +3,7 @@
 - Create a new directory called "newdir".
 - Use the "sed" command to replace all occurrences of the word "cat" with "dog" in 
 "sample.txt" and save the result in a new file called "sample_new.txt" inside "newdir"
-<img width="500" alt="2 - Task3_page-0001" src="https://github.com/shyamjp2002/Mind-Empowered/assets/75899937/cb93864d-4cc3-4e7c-81e6-60e06202dbb1">
+<img width="500" alt="2 - Task3_page-0001" src="https://github.com/naveenedoth/MindEmpowered-Linux/assets/94816256/8d6210fd-589f-4a0f-a193-ee5c51d89c4b">
 
 - Use the "cut" command to extract the third column of the "/etc/passwd" file and save 
 the result in a new file called "passwd_column3.txt" inside "newdir"
