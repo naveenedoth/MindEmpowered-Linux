@@ -9,3 +9,6 @@ account and read-only access to all other users.
 account and read and write access to any user belonging to the same group as your user 
 account.
 - Take a screenshot of the "ls -l" command output for "testdir" and submit it.
+
+
+![Task-1](d:/Users/navee/Documents/linux/2%20-%20Task1_page-0001.jpg)
