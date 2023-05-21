@@ -53,7 +53,7 @@ These components work together to create a fully functional Linux operating syst
   8. <b>Customization and flexibility</b>: Linux offers high levels of customization and flexibility. Users can modify and configure various aspects of the operating system to suit their needs, such as the desktop environment, package management, and system behavior. This level of control is not as readily available in Windows and macOS.
   
   # Linux file hierarchy and directory structure
-  <img width=400 alt="linux" src="https://github.com/shyamjp2002/Mind-Empowered/assets/75899937/c4b35676-1dcd-47bd-8921-ca963e7594ae">
+  <img width=400 alt="linux-file_hierarchy" src="https://github.com/naveenedoth/MindEmpowered-Linux/assets/94816256/f59e87f9-5b6c-4d9a-9b9d-29de9a3d367e">
 
   The base of the Linux/Unix file system hierarchy begins at the root and everything starts with the root directory. 
   These are the common top-level directories associated with the root directory:
